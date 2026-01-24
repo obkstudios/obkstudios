@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">I'm Benniton Otumfuo-Nyarko</h1>
-<h3 align="center">A passionate software engineering enthusiast from Ghana 🇬🇭</h3>
+<h3 align="center">A passionate software engineering enthusiast from Ghana</h3>
 
 - 🌱 I’m currently learning **JavaScript, C++, ReactJS, NodeJS, React Native**
-- 🤝 I’m looking for help with **Backend Development, Mobile App Development**
 - 📫 How to reach me: **benjiafriq@gmail.com**
 
 ---
