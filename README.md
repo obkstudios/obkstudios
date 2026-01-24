@@ -1,1 +1,41 @@
-## Hi there 👋 <h1 align="center">I'm Benniton Otumfuo-Nyarko</h1> <h3 align="center">A passionate software engineering enthusiast from Ghana</h3> - 🌱 I’m currently learning **JavaScript, C++, ReactJS, NodeJS, React Native** - 🤝 I’m looking for help with **Backend Development, Mobile App Development** - 📫 How to reach me **benjiafriq@gmail.com** <h3 align="left">Connect with me:</h3> <p align="left"> </p> <h3 align="left">Tech Stack:</h3> <p align="left"> <!-- Python --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <!-- C++ --> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <!-- NumPy --> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <!-- Pandas --> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <!-- Matplotlib --> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> <!-- Seaborn --> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <!-- Scikit-learn --> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <!-- Adobe Photoshop --> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <!-- Adobe Premiere Pro --> <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> </a> </p>
+## Hi there 👋
+
+<h1 align="center">I'm Benniton Otumfuo-Nyarko</h1>
+<h3 align="center">A passionate software engineering enthusiast from Ghana 🇬🇭</h3>
+
+- 🌱 I’m currently learning **JavaScript, C++, ReactJS, NodeJS, React Native**
+- 🤝 I’m looking for help with **Backend Development, Mobile App Development**
+- 📫 How to reach me: **benjiafriq@gmail.com**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- Add social badges here later -->
+</p>
+
+---
+
+<h3 align="left">Tech Stack:</h3>
+
+<p align="left">
+
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+<br/>
+
+<!-- Data & Visualization -->
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<br/>
+
+<!-- Creative Tools -->
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+
+</p>
