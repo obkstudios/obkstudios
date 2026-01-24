@@ -10,8 +10,17 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<!-- Add social badges here later -->
+<a href="https://www.linkedin.com/in/benniton-otumfuo-nyarko-885862280/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/ben_niton/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/share/17nmjC5Mx7/?mibextid=wwXIfr" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 </p>
 
 ---
