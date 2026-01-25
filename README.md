@@ -1,14 +1,13 @@
 ## Hi there 👋
 
 <h1 align="center">I'm Benniton Otumfuo-Nyarko</h1>
-<h3 align="center">A passionate software engineering enthusiast from Ghana</h3>
+<h3 align="center">A passionate software engineering enthusiast from Ghana 🇬🇭</h3>
 
 - 🌱 I’m currently learning **JavaScript, C++, ReactJS, NodeJS, React Native**
+- 🤝 I’m looking for help with **Backend Development, Mobile App Development**
 - 📫 How to reach me: **benjiafriq@gmail.com**
 
 ---
-
-<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/benniton-otumfuo-nyarko-885862280/" target="_blank">
@@ -46,4 +45,12 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 
+</p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obkstudios&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
