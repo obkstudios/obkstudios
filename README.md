@@ -53,12 +53,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obkstudios&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/obkstudios/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obkstudios&layout=donut" alt="Top Languages"/>
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obkstudios&layout=donut)](https://github.com/obkstudios/github-readme-stats)
