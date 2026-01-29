@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/obkstudios/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obkstudios&layout=donut" alt="Top Languages"/>
   </a>
 </p>
