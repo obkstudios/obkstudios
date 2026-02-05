@@ -53,6 +53,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=obkstudios&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
