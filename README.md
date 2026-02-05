@@ -54,3 +54,5 @@
 <h3 align="left">GitHub Stats:</h3>
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=obkstudios&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=obkstudios&show_icons=true&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
