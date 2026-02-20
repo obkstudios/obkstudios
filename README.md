@@ -29,6 +29,7 @@
 <p align="left">
 
 <!-- Programming Languages -->
+<img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/C++-00C4CC?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
