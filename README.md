@@ -2,7 +2,6 @@
 
 <h1 align="center">I'm Benniton Otumfuo-Nyarko</h1>
 
-
 - 🌱 I’m skilled in **JavaScript, C++, ReactJS, NodeJS, React Native**
 - 🤝 I'm into **Backend Development, Mobile App Development**
 - 📫 How to reach me: **benjiafriq@gmail.com**
@@ -30,22 +29,43 @@
 <p align="left">
 
 <!-- Programming Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+</a>
 
-<br/>
+<!-- Backend / Framework -->
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50" height="50"/>
+</a>
+
+<br/><br/>
 
 <!-- Data & Visualization -->
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
+</a>
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50"/>
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <!-- Creative Tools -->
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50" height="50"/>
+</a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc-icon.svg" width="50" height="50"/>
+</a>
 
 </p>
 
