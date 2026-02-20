@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">I'm Benniton Otumfuo-Nyarko</h1>
-<h3 align="center">A passionate software engineering enthusiast from Ghana 🇬🇭</h3>
+
 
 - 🌱 I’m skilled in **JavaScript, C++, ReactJS, NodeJS, React Native**
 - 🤝 I'm into **Backend Development, Mobile App Development**
