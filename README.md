@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/ben_niton/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-FF2D95?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/share/17nmjC5Mx7/?mibextid=wwXIfr" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -29,43 +29,27 @@
 <p align="left">
 
 <!-- Programming Languages -->
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-</a>
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-</a>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C++-00C4CC?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+<br/>
 
 <!-- Backend / Framework -->
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50" height="50"/>
-</a>
+<img src="https://img.shields.io/badge/Django-00E676?style=for-the-badge&logo=django&logoColor=black"/>
 
-<br/><br/>
+<br/>
 
 <!-- Data & Visualization -->
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
-</a>
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>
-</a>
+<img src="https://img.shields.io/badge/NumPy-00BFFF?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-FF6F61?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-7C4DFF?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 <!-- Creative Tools -->
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50" height="50"/>
-</a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc-icon.svg" width="50" height="50"/>
-</a>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-FF3D00?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 
 </p>
 
