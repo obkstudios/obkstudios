@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<h1 align="center">I'm Benniton Otumfuo-Nyarko</h1>
+<h2 align="center">I'm Benniton Otumfuo-Nyarko</h2>
 
-- 🌱 I’m skilled in **JavaScript, C++, ReactJS, NodeJS, React Native**
-- 🤝 I'm into **Backend Development, Mobile App Development**
+- 🌱 I’m currently learning **Django**
+- 🤝 I'm into **Data Science and Analytics**
 - 📫 How to reach me: **benjiafriq@gmail.com**
 
 ---
@@ -29,9 +29,9 @@
 <p align="left">
 
 <!-- Programming Languages -->
-<img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C++-00C4CC?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
 
 <br/>
 
